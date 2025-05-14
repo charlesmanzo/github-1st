@@ -12,4 +12,4 @@ estoy leyendo carrie, stephen king.
 
 ahora en github
 
-hola solo pruebo la creación de una rama
+hola solo pruebo la creación de una rama, luego del reinicio
