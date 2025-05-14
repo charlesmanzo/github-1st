@@ -1,10 +1,2 @@
-# Instrucciones
-este archivo explica git y github
-
-
-
----
-**esto es importante**
-*Qué onda*
-
-print("hola"()
+# Nuevo ECHO TITULO MARKDOWN  en README.md, sí
+Eliminado al antiguo contenido de Readme.md
